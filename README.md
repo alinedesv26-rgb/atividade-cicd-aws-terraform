@@ -1,1 +1,0 @@
-# atividade-cicd-aws-terraform
